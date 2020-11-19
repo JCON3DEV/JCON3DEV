@@ -13,4 +13,4 @@
 - 😄 Pronouns: He / His
 - ⚡ Fun fact: I spent 12 months training martial arts in China
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JCON3DEV)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JCON3DEV&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
