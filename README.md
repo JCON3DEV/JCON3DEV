@@ -1,8 +1,8 @@
-### Hola, I am Jordan Heasman 👋
+## Hola, I am Jordan Heasman 👋
 
-## This site is a showcase of my current work.
+### This site is a showcase of my current work.
 
-## and here is some more information about me;
+### and here is some more information about me;
 
 - 🔭 I am currently working on my React app - Workout of the Day
 - 🌱 I am currently studying React in more depth.
