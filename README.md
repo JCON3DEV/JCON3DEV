@@ -14,3 +14,4 @@
 - ⚡ Fun fact: I spent 12 months training martial arts in China.
 
 <img src="https://github-readme-stats.vercel.app/api?username=JCON3DEV&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCON3DEV&layout=compact">
