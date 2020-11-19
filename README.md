@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hola, I am Jordan Heasman 👋
 
-<!--
-**JCON3DEV/JCON3DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## This site is a showcase of my current work.
 
-Here are some ideas to get you started:
+# and here is some more information about me;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I am currently working on my React app - Workout of the Day
+- 🌱 I am currently studying React in more depth.
+- 👯 I’m collaborating on Natural Hazards Monitoring
+- 🤔 I’m looking for help with Web Sockets
+- 💬 Ask me about Javascript or Node.JS
+- 📫 How to reach me: email: jconheasman@gmail.com
+- 😄 Pronouns: He / His
+- ⚡ Fun fact: I spent 12 months training martial arts in China
