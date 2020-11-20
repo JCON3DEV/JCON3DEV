@@ -1,6 +1,6 @@
 ## Hola, I am Jordan Heasman 👋
 
-### This ![portfolio site link](https://github.com/JCON3DEV/portfolio) site is a showcase of my current work.
+### This ![portfolio site link](https://github.com/JCON3DEV/portfolio) is a showcase of my current work.
 
 ### and here is some more information about me;
 I'm a devoted metal head whos secret shame is also listening to a bit of Enya (but shhh dont tell anyone). Always having been fascinated by computer software and solving problems, I have turned this passion into creating websites and apps.
@@ -15,7 +15,5 @@ I'm a devoted metal head whos secret shame is also listening to a bit of Enya (b
 - ⚡ Fun fact: I spent 12 months training martial arts in China.
 - 100% creative and talented, just ask my Mum.
 
-![JCON3DEV GitHub stats]("https://github-readme-stats.vercel.app/api?username=JCON3DEV&theme=cobalt")
+![JCON3DEV GitHub stats](https://github-readme-stats.vercel.app/api?username=JCON3DEV&theme=cobalt)
 ![JCON3DEV GitHub language usage stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JCON3DEV&layout=compact&theme=cobalt&hide=TSQL)
-<img src="https://github-readme-stats.vercel.app/api?username=JCON3DEV&theme=cobalt">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCON3DEV&layout=compact&theme=cobalt&hide=TSQL">
