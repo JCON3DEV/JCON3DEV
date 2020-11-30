@@ -7,7 +7,7 @@ I'm a devoted metal head whos secret shame is also listening to a bit of Enya (b
 
 - 🔭 I am currently working on my React app - Workout of the Day
 - 🌱 I am currently studying React in more depth.
-- 👯 I’m collaborating on Natural Hazards Monitoring
+- 👯 I’m collaborating on [MegaBeats](https://github.com/blacitea/MegaBeats/tree/master) drum machine app.
 - 🤔 I’m looking for help with Web Sockets
 - 💬 Ask me about Javascript or Node.JS
 - 📫 How to reach me: email: jconheasman@gmail.com
