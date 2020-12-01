@@ -5,7 +5,7 @@
 ### and here is some more information about me;
 I'm a devoted metal head whos secret shame is also listening to a bit of Enya (but shhh dont tell anyone). Always having been fascinated by computer software and solving problems all my life and now I have turned this passion into creating websites and apps. I am always experimenting, always learning, and never bored.
 
-- 🔭 I am currently working on my React app - Workout of the Day
+- 🔭 I am currently working on my Portfolio site and my React app - Workout of the Day
 - 🌱 I am currently studying React in more depth.
 - 👯 I’m collaborating on [MegaBeats](https://github.com/blacitea/MegaBeats/tree/master) drum machine app.
 - 🤔 I’m looking for help with Web Sockets
