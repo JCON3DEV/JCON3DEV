@@ -19,5 +19,6 @@ I'm a devoted metal head whos secret shame is also listening to a bit of Enya (b
 ![JCON3DEV GitHub language usage stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JCON3DEV&layout=compact&theme=cobalt&hide=TSQL)
 
 ### Languages and tools
-<code><img height="40" src="https://raw.githubusercontent.com/jcon3dev/jcon3dev/master/assets/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/jcon3dev/jcon3dev/master/assets/visual-studio-code.png"></code>
+<code><img height="40" src="https://github.com/JCON3DEV/JCON3DEV/blob/main/assets/javascript.png"></code>
+<code><img height="40" src="https://github.com/JCON3DEV/JCON3DEV/blob/main/assets/visual-studio-code.png"></code>
+<code><img height="40" src="https://github.com/JCON3DEV/JCON3DEV/blob/main/assets/medium.png"></code>
