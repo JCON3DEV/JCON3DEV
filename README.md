@@ -20,5 +20,7 @@ I'm a devoted metal head whos secret shame is also listening to a bit of Enya (b
 
 ### Languages and tools
 <code><img height="40" src="https://github.com/JCON3DEV/JCON3DEV/blob/main/assets/javascript.png"></code>
+<code><img height="40" src="https://github.com/JCON3DEV/JCON3DEV/blob/main/assets/nodeJs.png"></code>
+<code><img height="40" src="https://github.com/JCON3DEV/JCON3DEV/blob/main/assets/react.png"></code>
 <code><img height="40" src="https://github.com/JCON3DEV/JCON3DEV/blob/main/assets/visual-studio-code.png"></code>
 <code><img height="40" src="https://github.com/JCON3DEV/JCON3DEV/blob/main/assets/medium.png"></code>
