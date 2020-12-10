@@ -3,7 +3,7 @@
 ### This [portfolio site link](https://github.com/JCON3DEV/portfolio) is a showcase of my current work.
 
 ### and here is some more information about me;
-I'm a devoted metal head whos secret shame is also listening to a bit of Enya (but shhh dont tell anyone). Always having been fascinated by computer software and solving problems all my life and now I have turned this passion into creating websites and apps. I am always experimenting, always learning, and never bored.
+I'm a devoted metalhead who's secret shame is also listening to a bit of Enya (but shhh don't tell anyone). Having always been fascinated by computer software and games solving puzzles, I have turned this passion into a career creating beautiful websites and purposeful apps. I am always experimenting, always learning, and never bored.
 
 - 🔭 I am currently working on my Portfolio site and my React app - Workout of the Day
 - 🌱 I am currently studying React in more depth.
