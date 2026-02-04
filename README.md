@@ -1,4 +1,4 @@
-## Hi, I'm Jordan — Senior Technical Writer working on platform and data documentation.
+## Hi, I'm Jordan — A Senior Technical Writer working on platform and data documentation.
 
 • Platform, API, and infrastructure docs
 • Documentation governance and standards
